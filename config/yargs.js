@@ -1,5 +1,3 @@
-//Comentario
-
 const argv = require('yargs')
     .option('b',{
         alias: ['Base', 'base'],
