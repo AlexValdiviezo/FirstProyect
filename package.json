@@ -1,0 +1,16 @@
+{
+  "name": "hola-mundo",
+  "version": "0.0.1",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "version": "node app --version"
+  },
+  "author": "Alex Valdiviezo",
+  "license": "MIT",
+  "description": "Esta es una simple aplicacion para crear tablas de multiplicar",
+  "dependencies": {
+    "colors": "^1.0.0",
+    "yargs": "^16.2.0"
+  }
+}
